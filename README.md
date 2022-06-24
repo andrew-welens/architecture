@@ -94,7 +94,7 @@ shared(standalone angular 14) и, в свою очередь, не иметь з
 
 Предлагается выделить следующие слои:
 
-![2](https://user-images.githubusercontent.com/48022793/175318591-01953096-38dc-434e-a270-4e794b86288b.jpg)
+![Frame 1](https://user-images.githubusercontent.com/48022793/175523966-049a9564-0f7a-4163-abe8-5c607e538672.jpg)
 
 
 Соге
@@ -119,7 +119,7 @@ UI
 
 Слои реализуются различными компонентами:
 
-![1](https://user-images.githubusercontent.com/48022793/175318626-9f9f7ef5-1215-4f6a-ab1f-76a3a8b382d9.jpg)
+![Frame 2](https://user-images.githubusercontent.com/48022793/175523992-e596b970-05bd-4413-937e-0b4786a9410f.jpg)
 
 
 Model
